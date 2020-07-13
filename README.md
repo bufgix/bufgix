@@ -1,4 +1,4 @@
-![About Me](https://github.com/bufgix/bufgix/blob/master/ttt.gif)
+![About Me](https://github.com/bufgix/bufgix/blob/master/ttt(1).gif)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=bufgix&show_icons=true">
