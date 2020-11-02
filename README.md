@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **frontend stuff**
 
-- 👯 I’m looking to collaborate on **passwall**
+- 👯 I’m looking to collaborate on [passwall](https://github.com/passwall)
 
 - 📝 I regulary write articles on [bufgix.now.sh](bufgix.now.sh)
 
