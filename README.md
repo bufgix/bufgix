@@ -1,5 +1,4 @@
-![About Me](https://github.com/bufgix/bufgix/blob/master/ttt(1).gif)<h1 align="center">Hi 👋, I'm Faruk</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+![About Me](https://github.com/bufgix/bufgix/blob/master/ttt(1).gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bufgix&label=Profile%20views&color=0e75b6&style=flat" alt="bufgix" /> </p>
 
