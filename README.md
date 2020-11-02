@@ -1,8 +1,11 @@
 ![About Me](https://github.com/bufgix/bufgix/blob/master/ttt(1).gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bufgix&label=Profile%20views&color=0e75b6&style=flat" alt="bufgix" /> </p>
+<div align="left">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=bufgix&label=Profile%20views&color=0e75b6&style=flat" alt="bufgix" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bufgix_" target="blank"><img src="https://img.shields.io/twitter/follow/bufgix_?logo=twitter&style=for-the-badge" alt="bufgix_" /></a> </p>
+
+</div>
 
 - 🌱 I’m currently learning **frontend stuff**
 
