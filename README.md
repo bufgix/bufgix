@@ -14,14 +14,6 @@
 
 - 📫 How to reach me **ooruc471@yandex.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/bufgix_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bufgix_" height="30" width="40" /></a>
-<a href="https://codesandbox.com/bufgix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="bufgix" height="30" width="40" /></a>
-<a href="https://instagram.com/bufgix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bufgix" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bufgix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="bufgix" height="30" width="40" /></a>
-</p>
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)
@@ -42,3 +34,14 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/bufgix">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bufgix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bufgix&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
