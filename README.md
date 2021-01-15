@@ -59,6 +59,6 @@
 <a href="mailto:ooruc471@yandex.com"><img src="https://img.shields.io/badge/-ooruc471@yandex.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/bufgix"><img src="https://img.shields.io/badge/-@bufgix-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://codesandbox.io/u/bufgix"><img src="https://img.shields.io/badge/-@bufgix-151515?style=flat&logo=CodeSandBox&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/bufgix"><img src="https://img.shields.io/badge/-@bufgix-151515?style=flat&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/bufgix"><img src="https://img.shields.io/badge/-@bufgix-2ec866?style=flat&logo=HackerRank&logoColor=white"/></a>
 
 </p>
