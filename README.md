@@ -1,4 +1,4 @@
-![About Me](https://github.com/bufgix/bufgix/blob/master/ttt(1).gif)
+<a href="https://codesandbox.io/s/pf4c0">![About Me](https://github.com/bufgix/bufgix/blob/master/ttt(1).gif)</a>
 
 
 ### 🛠 &nbsp;Tech Stack
