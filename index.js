@@ -3,7 +3,7 @@ const fs = require("fs");
 const fetch = require("node-fetch");
 require("dotenv").config();
 
-console.log(process.env.RAINDROP_API_KEY)
+console.log(process.env)
 
 fetch("https://api.raindrop.io/rest/v1/raindrops/0?perpage=3", {
   headers: {
