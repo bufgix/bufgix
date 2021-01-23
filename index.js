@@ -10,6 +10,14 @@ fetch("https://api.raindrop.io/rest/v1/raindrops/0?perpage=3", {
 })
   .then((r) => r.json())
   .then((res) => {
+    const dtfUK = new Intl.DateTimeFormat("UK", {
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+      second: "2-digit",
+    });
     fs.writeFileSync(
       "./README.md",
       `
@@ -40,6 +48,11 @@ ${res.items
     return `- [${title}](${link})\n`;
   })
   .join("")}
+
+<br/>
+<p align="right"><sup >Last Update: <i> ${dtfUK.format(new Date())}</i></sup></p>
+
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
