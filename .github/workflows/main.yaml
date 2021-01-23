@@ -29,6 +29,8 @@ jobs:
         run: yarn install
 
       - name: Update README
+        env: 
+          RAINDROP_API_KEY: ${{ secrets.RAINDROP_API_KEY }}
         run: yarn start
 
       - name: Deploy
