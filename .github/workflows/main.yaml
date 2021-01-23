@@ -34,7 +34,7 @@ jobs:
       - name: Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
-          git config user.email "ooeuc471@yandex.com"
+          git config user.email "ooruc471@yandex.com"
           git add .
           git commit -am "feat(auto generate): Updated content"
           git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
