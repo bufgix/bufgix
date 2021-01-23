@@ -37,13 +37,13 @@
 </p>
 
 ### 🔖 &nbsp;My Raindrops
-- [The Modern JavaScript Tutorial](https://javascript.info/)
 - [How to use React.memo() to improve performance](https://felixgerschau.com/react-performance-react-memo/?ref=onur.dev)
 - [React is slow, what now? | NoSleep Javascript Blog](https://nosleepjavascript.com/react-performance/?ref=onur.dev)
+- [Reactive Programming (Reaktif Programlama) Nedir? | Devnot](http://devnot.com/2020/reactive-programming-reaktif-programlama-nedir/?utm_campaign=Yaz%C4%B1l%C4%B1mc%C4%B1lar%20%C4%B0%C3%A7in%20Hafta%20Sonu%20Okumalar%C4%B1&utm_medium=email&utm_source=Revue%20newsletter)
 
 
 <br/>
-<p align="right"><sup >Last Update: <i> 01/23/2021, 06:49:54 AM</i></sup></p>
+<p align="right"><sup >Last Update: <i> 01/23/2021, 12:50:38 PM</i></sup></p>
 
 
 
