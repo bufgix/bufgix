@@ -36,6 +36,10 @@
 </a>
 </p>
 
+### 🔖 &nbsp;My Raindrops
+- [How to use React.memo() to improve performance](https://felixgerschau.com/react-performance-react-memo/?ref=onur.dev)
+- [React is slow, what now? | NoSleep Javascript Blog](https://nosleepjavascript.com/react-performance/?ref=onur.dev)
+- [Reactive Programming (Reaktif Programlama) Nedir? | Devnot](http://devnot.com/2020/reactive-programming-reaktif-programlama-nedir/?utm_campaign=Yaz%C4%B1l%C4%B1mc%C4%B1lar%20%C4%B0%C3%A7in%20Hafta%20Sonu%20Okumalar%C4%B1&utm_medium=email&utm_source=Revue%20newsletter)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -50,4 +54,5 @@
 <a href="https://www.hackerrank.com/bufgix"><img src="https://img.shields.io/badge/-@bufgix-2ec866?style=flat&logo=HackerRank&logoColor=white"/></a>
 
 </p>
-
+    
+    
