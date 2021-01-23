@@ -3,7 +3,6 @@ const fs = require("fs");
 const fetch = require("node-fetch");
 require("dotenv").config();
 
-console.log(process.env)
 
 fetch("https://api.raindrop.io/rest/v1/raindrops/0?perpage=3", {
   headers: {
@@ -12,6 +11,7 @@ fetch("https://api.raindrop.io/rest/v1/raindrops/0?perpage=3", {
 })
   .then((r) => r.json())
   .then((res) => {
+    console.log(res)
     fs.writeFileSync(
       "./README.md",
       `
