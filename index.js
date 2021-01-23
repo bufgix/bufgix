@@ -3,7 +3,7 @@ const fs = require("fs");
 const fetch = require("node-fetch");
 require("dotenv").config();
 
-fetch("https://api.raindrop.io/rest/v1/raindrops/0?perpage=3", {
+fetch("https://api.raindrop.io/rest/v1/raindrops/0?perpage=5", {
   headers: {
     Authorization: `Bearer ${process.env.RAINDROP_API_KEY}`,
   },
@@ -42,7 +42,7 @@ ${Object.entries(config.SKILLS)
 </a>
 </p>
 
-### 🔖 &nbsp;My Raindrops
+### 🔖 &nbsp;My Last Raindrops
 ${res.items
   .map(({ link, title }) => {
     return `- [${title}](${link})\n`;
