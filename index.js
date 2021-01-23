@@ -2,7 +2,7 @@ const config = require("./config");
 const fs = require("fs");
 
 fs.writeFileSync(
-  "./readme_test.md",
+  "./README.md",
   `
 <a href="https://codesandbox.io/s/pf4c0">![About Me](https://github.com/bufgix/bufgix/blob/master/ttt(1).gif)</a>
 
