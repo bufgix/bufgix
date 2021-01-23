@@ -32,7 +32,7 @@ ${Object.entries(config.SKILLS)
 <p align="center">
 ${config.SOCIAL.map(({ link, image }) => {
   return `<a href="${link}"><img src="${image}"/></a>\n`;
-})}
+}).join("")}
 </p>
 
 `
