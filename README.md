@@ -37,15 +37,15 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [Creating a URL Shortener with TypeScript + Express.js + MongoDB | by Batuhan Yenidünya | Jan, 2021 | Medium](https://batuhanyenidunya.medium.com/creating-a-url-shortener-with-typescript-express-js-mongodb-565c9bb842f2)
 - [Why We Moved From React to Svelte | by Maxime Nadeau | Better Programming | Medium](https://medium.com/better-programming/why-we-moved-from-react-to-svelte-f20afb1dc5d5)
 - [How to use React.memo() to improve performance](https://felixgerschau.com/react-performance-react-memo/?ref=onur.dev)
 - [React is slow, what now? | NoSleep Javascript Blog](https://nosleepjavascript.com/react-performance/?ref=onur.dev)
 - [Reactive Programming (Reaktif Programlama) Nedir? | Devnot](http://devnot.com/2020/reactive-programming-reaktif-programlama-nedir/?utm_campaign=Yaz%C4%B1l%C4%B1mc%C4%B1lar%20%C4%B0%C3%A7in%20Hafta%20Sonu%20Okumalar%C4%B1&utm_medium=email&utm_source=Revue%20newsletter)
-- [Makefile Tutorial By Example](https://makefiletutorial.com/)
 
 
 <br/>
-<p align="right"><sup >Last Update: <i> 01/24/2021, 06:44:23 PM</i></sup></p>
+<p align="right"><sup >Last Update: <i> 01/25/2021, 12:48:48 AM</i></sup></p>
 
 
 
