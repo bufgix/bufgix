@@ -50,7 +50,6 @@ ${res.items
   .join("")}
 
 <br/>
-<p align="right"><sup >Last Update: <i> ${dtfUK.format(new Date())}</i></sup></p>
 
 
 
