@@ -37,11 +37,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [JavaScript Visualized: Promises & Async/Await | by Mahmut Yıldız | Feb, 2021 | Cimri Engineering](https://engineering.cimri.com/javascript-visualized-promises-async-await-f49c9233fb65)
 - [React Architecture: The React Provider Pattern | Morten Barklund](https://mortenbarklund.com/blog/react-architecture-provider-pattern/)
 - [Making a resizable div in JS is not easy as you think | by Nguyễn Việt Hưng | The happy lone guy | Medium](https://medium.com/the-z/making-a-resizable-div-in-js-is-not-easy-as-you-think-bda19a1bc53d)
 - [React Uygulamalarında TDD. Test güdümlü React uygulamaları… | by Oğuz Kılıç | Medium](https://oguzkilic.medium.com/react-uygulamalar%C4%B1nda-tdd-48f93335d8fb)
 - [Creating a URL Shortener with TypeScript + Express.js + MongoDB | by Batuhan Yenidünya | Jan, 2021 | Medium](https://batuhanyenidunya.medium.com/creating-a-url-shortener-with-typescript-express-js-mongodb-565c9bb842f2)
-- [Why We Moved From React to Svelte | by Maxime Nadeau | Better Programming | Medium](https://medium.com/better-programming/why-we-moved-from-react-to-svelte-f20afb1dc5d5)
 
 
 <br/>
