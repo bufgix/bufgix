@@ -37,11 +37,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [Git Commit Mesajı Yazmanın 7 Kuralı | by Gökhan Samet Albayrak | Feb, 2021 | Medium](https://gokhanalbayrak43.medium.com/git-commit-mesaj%C4%B1-yazman%C4%B1n-7-kural%C4%B1-1ba8b0a1fa04)
 - [JavaScript Visualized: Promises & Async/Await | by Mahmut Yıldız | Feb, 2021 | Cimri Engineering](https://engineering.cimri.com/javascript-visualized-promises-async-await-f49c9233fb65)
 - [React Architecture: The React Provider Pattern | Morten Barklund](https://mortenbarklund.com/blog/react-architecture-provider-pattern/)
 - [Making a resizable div in JS is not easy as you think | by Nguyễn Việt Hưng | The happy lone guy | Medium](https://medium.com/the-z/making-a-resizable-div-in-js-is-not-easy-as-you-think-bda19a1bc53d)
 - [React Uygulamalarında TDD. Test güdümlü React uygulamaları… | by Oğuz Kılıç | Medium](https://oguzkilic.medium.com/react-uygulamalar%C4%B1nda-tdd-48f93335d8fb)
-- [Creating a URL Shortener with TypeScript + Express.js + MongoDB | by Batuhan Yenidünya | Jan, 2021 | Medium](https://batuhanyenidunya.medium.com/creating-a-url-shortener-with-typescript-express-js-mongodb-565c9bb842f2)
 
 
 <br/>
