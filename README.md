@@ -37,11 +37,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [YouTube](https://www.youtube.com/)
 - [5 React Custom Hooks You Should Start Using (Explained) - DEV Community](https://dev.to/alterclass/5-react-custom-hooks-you-should-start-using-explained-5d18?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 - [Sharing custom views in react native - DEV Community 👩‍💻👨‍💻](https://dev.to/kyonru/sharing-custom-views-in-react-native-256d)
 - [Git Commit Mesajı Yazmanın 7 Kuralı | by Gökhan Samet Albayrak | Feb, 2021 | Medium](https://gokhanalbayrak43.medium.com/git-commit-mesaj%C4%B1-yazman%C4%B1n-7-kural%C4%B1-1ba8b0a1fa04)
 - [JavaScript Visualized: Promises & Async/Await | by Mahmut Yıldız | Feb, 2021 | Cimri Engineering](https://engineering.cimri.com/javascript-visualized-promises-async-await-f49c9233fb65)
-- [React Architecture: The React Provider Pattern | Morten Barklund](https://mortenbarklund.com/blog/react-architecture-provider-pattern/)
 
 
 <br/>
