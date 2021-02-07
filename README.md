@@ -37,11 +37,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [JavaScript’de Currying nedir?. Yıllar önce JavaScript’i yeni öğrenen… | by Gökhan İpek | Jan, 2021 | Medium](https://gokhanipek.medium.com/javascriptde-currying-nedir-8ac3500da1d3)
 - [The Ultimate Guide to FlatList in React Native - DEV Community 👩‍💻👨‍💻](https://dev.to/chakrihacker/the-ultimate-guide-to-flatlist-in-react-native-1iao)
 - [5 React Custom Hooks You Should Start Using (Explained) - DEV Community](https://dev.to/alterclass/5-react-custom-hooks-you-should-start-using-explained-5d18?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 - [Sharing custom views in react native - DEV Community 👩‍💻👨‍💻](https://dev.to/kyonru/sharing-custom-views-in-react-native-256d)
 - [Git Commit Mesajı Yazmanın 7 Kuralı | by Gökhan Samet Albayrak | Feb, 2021 | Medium](https://gokhanalbayrak43.medium.com/git-commit-mesaj%C4%B1-yazman%C4%B1n-7-kural%C4%B1-1ba8b0a1fa04)
-- [JavaScript Visualized: Promises & Async/Await | by Mahmut Yıldız | Feb, 2021 | Cimri Engineering](https://engineering.cimri.com/javascript-visualized-promises-async-await-f49c9233fb65)
 
 
 <br/>
