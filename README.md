@@ -37,11 +37,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [Implementing the Builder Pattern in Vue.js Part 2: Forms - Markus Oberlehner](https://markus.oberlehner.net/blog/implementing-the-builder-pattern-in-vue-forms/)
 - [Webpack Nedir? Webpack’e Detaylı Bir Bakış | Devnot](http://devnot.com/2021/webpack-nedir-webpacke-detayli-bir-bakis/)
 - [JavaScript’de Currying nedir?. Yıllar önce JavaScript’i yeni öğrenen… | by Gökhan İpek | Jan, 2021 | Medium](https://gokhanipek.medium.com/javascriptde-currying-nedir-8ac3500da1d3)
 - [The Ultimate Guide to FlatList in React Native - DEV Community 👩‍💻👨‍💻](https://dev.to/chakrihacker/the-ultimate-guide-to-flatlist-in-react-native-1iao)
 - [5 React Custom Hooks You Should Start Using (Explained) - DEV Community](https://dev.to/alterclass/5-react-custom-hooks-you-should-start-using-explained-5d18?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
-- [Sharing custom views in react native - DEV Community 👩‍💻👨‍💻](https://dev.to/kyonru/sharing-custom-views-in-react-native-256d)
 
 
 <br/>
