@@ -37,11 +37,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [Build great React components](https://telmo.is/writing/neat-way-of-building-components)
+- [Aklımda Kalsın: React'ta Hataları Yakalayalım | Berat Bozkurt](https://beratbozkurt.net/blog/aklimda-kalsin-reactta-hatalari-yakalayalim/)
 - [Utilize the File Structure to Decide When to Use Vue.js Slots - Markus Oberlehner](https://markus.oberlehner.net/blog/utilize-the-file-structure-to-decide-when-to-use-vuejs-slots/)
 - [Implementing the Builder Pattern in Vue.js Part 2: Forms - Markus Oberlehner](https://markus.oberlehner.net/blog/implementing-the-builder-pattern-in-vue-forms/)
 - [Webpack Nedir? Webpack’e Detaylı Bir Bakış | Devnot](http://devnot.com/2021/webpack-nedir-webpacke-detayli-bir-bakis/)
-- [JavaScript’de Currying nedir?. Yıllar önce JavaScript’i yeni öğrenen… | by Gökhan İpek | Jan, 2021 | Medium](https://gokhanipek.medium.com/javascriptde-currying-nedir-8ac3500da1d3)
-- [The Ultimate Guide to FlatList in React Native - DEV Community 👩‍💻👨‍💻](https://dev.to/chakrihacker/the-ultimate-guide-to-flatlist-in-react-native-1iao)
 
 
 <br/>
