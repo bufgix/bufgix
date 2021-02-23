@@ -37,11 +37,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [Ditch the dreaded . Semantic HTML elements we should use instead - DEV Community 👩‍💻👨‍💻](https://dev.to/kieran6roberts/ditch-the-dreaded-div-semantic-html-elements-we-should-use-instead-1k60?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 - [Using Styled Components with React Native - DEV Community 👩‍💻👨‍💻](https://dev.to/amanhimself/using-styled-components-with-react-native-4k15)
 - [Build great React components](https://telmo.is/writing/neat-way-of-building-components)
 - [Aklımda Kalsın: React'ta Hataları Yakalayalım | Berat Bozkurt](https://beratbozkurt.net/blog/aklimda-kalsin-reactta-hatalari-yakalayalim/)
 - [Utilize the File Structure to Decide When to Use Vue.js Slots - Markus Oberlehner](https://markus.oberlehner.net/blog/utilize-the-file-structure-to-decide-when-to-use-vuejs-slots/)
-- [Implementing the Builder Pattern in Vue.js Part 2: Forms - Markus Oberlehner](https://markus.oberlehner.net/blog/implementing-the-builder-pattern-in-vue-forms/)
 
 
 <br/>
