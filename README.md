@@ -37,11 +37,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [Step by step: Building and publishing an NPM Typescript package. | by Carl-Johan Kihl | ITNEXT](https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c)
 - [React Native Bridge — Native Modül Hazırlamak | by Emre Vatansever | Software Development Turkey | Feb, 2021 | Medium](https://medium.com/software-development-turkey/react-native-bridge-native-mod%C3%BCl-haz%C4%B1rlamak-a93ca31bc1c7)
 - [Ditch the dreaded . Semantic HTML elements we should use instead - DEV Community 👩‍💻👨‍💻](https://dev.to/kieran6roberts/ditch-the-dreaded-div-semantic-html-elements-we-should-use-instead-1k60?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 - [Using Styled Components with React Native - DEV Community 👩‍💻👨‍💻](https://dev.to/amanhimself/using-styled-components-with-react-native-4k15)
 - [Build great React components](https://telmo.is/writing/neat-way-of-building-components)
-- [Aklımda Kalsın: React'ta Hataları Yakalayalım | Berat Bozkurt](https://beratbozkurt.net/blog/aklimda-kalsin-reactta-hatalari-yakalayalim/)
 
 
 <br/>
