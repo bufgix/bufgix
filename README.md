@@ -37,11 +37,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [Type Reference | Flow](https://flow.org/en/docs/react/types/#toc-react-node)
+- [Stylesheets in React Native with TypeScript Revisited | by Samuli Hakoniemi | Medium](https://medium.com/@zvona/stylesheets-in-react-native-with-typescript-revisited-6b4ba0a899d2)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 - [Step by step: Building and publishing an NPM Typescript package. | by Carl-Johan Kihl | ITNEXT](https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c)
 - [React Native Bridge — Native Modül Hazırlamak | by Emre Vatansever | Software Development Turkey | Feb, 2021 | Medium](https://medium.com/software-development-turkey/react-native-bridge-native-mod%C3%BCl-haz%C4%B1rlamak-a93ca31bc1c7)
-- [Ditch the dreaded . Semantic HTML elements we should use instead - DEV Community 👩‍💻👨‍💻](https://dev.to/kieran6roberts/ditch-the-dreaded-div-semantic-html-elements-we-should-use-instead-1k60?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
-- [Using Styled Components with React Native - DEV Community 👩‍💻👨‍💻](https://dev.to/amanhimself/using-styled-components-with-react-native-4k15)
 
 
 <br/>
