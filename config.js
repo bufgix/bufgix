@@ -7,6 +7,7 @@ exports.SKILLS = {
     "https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react",
   "Node.js":
     "https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js",
+  Typescript: "https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript",
   Gatsby:
     "https://img.shields.io/badge/-Gatsby-05122A?style=flat&logo=gatsby&logoColor=663399",
   MongoDb:
