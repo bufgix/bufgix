@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [How to Test Database Queries and More with Node.js | by Yiğitcan Uçum | Trendyol Tech | Jan, 2021 | Medium](https://medium.com/trendyol-tech/how-to-test-database-queries-and-more-with-node-js-2f02b08707a7)
+- [Frontend Testing. UI’da Storybook, Testing Library… | by Onur Dayıbaşı | Frontend Development With JS | Jan, 2021 | Medium](https://medium.com/frontend-development-with-js/frontend-testing-2c17a362f5d5)
 - [React Server Components Nedir ?. React core team 2020'nin son ayında… | by Yasin UYSAL | hepsiburadatech | Mar, 2021 | Medium](https://medium.com/hepsiburadatech/react-server-components-nedir-4ab1defd7eb1)
 - [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 - [Implementing Dark Mode | Drew Barontini](https://drewbarontini.com/blog/implementing-dark-mode/)
-- [Type Reference | Flow](https://flow.org/en/docs/react/types/#toc-react-node)
-- [Stylesheets in React Native with TypeScript Revisited | by Samuli Hakoniemi | Medium](https://medium.com/@zvona/stylesheets-in-react-native-with-typescript-revisited-6b4ba0a899d2)
 
 
 <br/>
