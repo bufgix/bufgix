@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [Front End Interview Handbook | Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Building Design System in React Native 🎨 | by Irem Karaoglu | Mar, 2021 | Medium](https://iremkaraoglu.medium.com/building-design-system-in-react-native-80fa97d9fd89)
 - [How to Test Database Queries and More with Node.js | by Yiğitcan Uçum | Trendyol Tech | Jan, 2021 | Medium](https://medium.com/trendyol-tech/how-to-test-database-queries-and-more-with-node-js-2f02b08707a7)
 - [Frontend Testing. UI’da Storybook, Testing Library… | by Onur Dayıbaşı | Frontend Development With JS | Jan, 2021 | Medium](https://medium.com/frontend-development-with-js/frontend-testing-2c17a362f5d5)
 - [React Server Components Nedir ?. React core team 2020'nin son ayında… | by Yasin UYSAL | hepsiburadatech | Mar, 2021 | Medium](https://medium.com/hepsiburadatech/react-server-components-nedir-4ab1defd7eb1)
-- [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 
 
 <br/>
