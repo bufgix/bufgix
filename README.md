@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [How to test web extensions? - DEV Community 👩‍💻👨‍💻](https://dev.to/flarra/how-to-test-web-extensions-1om7)
 - [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely/)
 - [Learn Advanced TypeScript Types. Learn how to create types for curry and… | by Pierre-Antoine Mills | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/typescript-curry-ramda-types-f747e99744ab)
 - [Front End Interview Handbook | Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/)
 - [Building Design System in React Native 🎨 | by Irem Karaoglu | Mar, 2021 | Medium](https://iremkaraoglu.medium.com/building-design-system-in-react-native-80fa97d9fd89)
-- [How to Test Database Queries and More with Node.js | by Yiğitcan Uçum | Trendyol Tech | Jan, 2021 | Medium](https://medium.com/trendyol-tech/how-to-test-database-queries-and-more-with-node-js-2f02b08707a7)
 
 
 <br/>
