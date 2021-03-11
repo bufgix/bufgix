@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [JS’de MetaProgramming — 3. Bu yazıda JS MetaProgramming kavramını… | by Onur Dayıbaşı | Frontend Development With JS | Mar, 2021 | Medium](https://medium.com/frontend-development-with-js/jsde-metaprogramming-3-f849c8ab353e)
 - [State Management with MobX State Tree | by Nader Dabit | React Native Training | Medium](https://medium.com/react-native-training/state-management-with-mobx-state-tree-373f9f2dc68a)
 - [MobX with React and TypeScript - DEV Community 👩‍💻👨‍💻](https://dev.to/sirwanafifi/mobx-with-react-and-typescript-58bf)
 - [How to test web extensions? - DEV Community 👩‍💻👨‍💻](https://dev.to/flarra/how-to-test-web-extensions-1om7)
 - [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely/)
-- [Learn Advanced TypeScript Types. Learn how to create types for curry and… | by Pierre-Antoine Mills | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/typescript-curry-ramda-types-f747e99744ab)
 
 
 <br/>
