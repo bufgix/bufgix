@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [Tailwind CSS + ReactJS + Tailblocks = Hızlı Başlangıç Combosu | by Murat Benli | BilgeAdam Teknoloji | Medium](https://medium.com/batech/tailwind-css-reactjs-tailblocks-h%C4%B1zl%C4%B1-ba%C5%9Flang%C4%B1%C3%A7-combosu-517746aea66)
 - [Mozilla'da işe nasıl girdim? - Nazım Can Altınova](https://canaltinova.com/blog/posts/mozilla-da-ise-nasil-girdim/)
 - [Build a react-router clone from scratch - DEV Community](https://dev.to/thomascullen/build-a-react-router-clone-from-scratch-38dp?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 - [Proxy. Structural Patterns bir örneği olan… | by Onur Dayıbaşı | Design Patterns | Medium](https://medium.com/design-patterns/design-patterns-11-proxy-2ea3382af36c)
 - [JS’de MetaProgramming — 3. Bu yazıda JS MetaProgramming kavramını… | by Onur Dayıbaşı | Frontend Development With JS | Mar, 2021 | Medium](https://medium.com/frontend-development-with-js/jsde-metaprogramming-3-f849c8ab353e)
-- [State Management with MobX State Tree | by Nader Dabit | React Native Training | Medium](https://medium.com/react-native-training/state-management-with-mobx-state-tree-373f9f2dc68a)
 
 
 <br/>
