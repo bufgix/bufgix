@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [What is module bundler and how does it work?](https://lihautan.com/what-is-module-bundler-and-how-does-it-work/)
 - [Svelte Nedir ? React, Vue vb UI Kütüphanelerinden Farklı Ne Yenilikler Vaadediyor ?](https://medium.com/frontend-development-with-js/svelte-nedir-react-vue-vb-ui-k%C3%BCt%C3%BCphanelerinden-farkl%C4%B1-ne-yenilikler-vaadediyor-751db72cc24a)
 - [Tailwind CSS + ReactJS + Tailblocks = Hızlı Başlangıç Combosu | by Murat Benli | BilgeAdam Teknoloji | Medium](https://medium.com/batech/tailwind-css-reactjs-tailblocks-h%C4%B1zl%C4%B1-ba%C5%9Flang%C4%B1%C3%A7-combosu-517746aea66)
 - [Mozilla'da işe nasıl girdim? - Nazım Can Altınova](https://canaltinova.com/blog/posts/mozilla-da-ise-nasil-girdim/)
 - [Build a react-router clone from scratch - DEV Community](https://dev.to/thomascullen/build-a-react-router-clone-from-scratch-38dp?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
-- [Proxy. Structural Patterns bir örneği olan… | by Onur Dayıbaşı | Design Patterns | Medium](https://medium.com/design-patterns/design-patterns-11-proxy-2ea3382af36c)
 
 
 <br/>
