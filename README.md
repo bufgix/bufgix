@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [Framer Guide to React](https://www.framer.com/books/framer-guide-to-react/#theory)
+- [fettblog.eu | TypeScript, JavaScript, Web Dev Articles](https://fettblog.eu/)
+- [TypeScript + React: Why I don't use React.FC](https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/)
+- [TypeScript: Low maintenance types](https://fettblog.eu/low-maintenance-types-typescript/)
 - [TypeScript + React: Component patterns](https://fettblog.eu/typescript-react-component-patterns/)
-- [What is module bundler and how does it work?](https://lihautan.com/what-is-module-bundler-and-how-does-it-work/)
-- [Svelte Nedir ? React, Vue vb UI Kütüphanelerinden Farklı Ne Yenilikler Vaadediyor ?](https://medium.com/frontend-development-with-js/svelte-nedir-react-vue-vb-ui-k%C3%BCt%C3%BCphanelerinden-farkl%C4%B1-ne-yenilikler-vaadediyor-751db72cc24a)
-- [Tailwind CSS + ReactJS + Tailblocks = Hızlı Başlangıç Combosu | by Murat Benli | BilgeAdam Teknoloji | Medium](https://medium.com/batech/tailwind-css-reactjs-tailblocks-h%C4%B1zl%C4%B1-ba%C5%9Flang%C4%B1%C3%A7-combosu-517746aea66)
-- [Mozilla'da işe nasıl girdim? - Nazım Can Altınova](https://canaltinova.com/blog/posts/mozilla-da-ise-nasil-girdim/)
 
 
 <br/>
