@@ -74,6 +74,6 @@ exports.SOCIAL = [
 ];
 
 exports.GITHUB_STATICS_URL =
-  "https://github-readme-stats-eight-theta.vercel.app/api?username=bufgix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true";
+  "https://github-readme-stats-bufgix.vercel.app/api?username=bufgix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true";
 exports.MOST_LANG =
-  "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bufgix&layout=compact&langs_count=8&theme=algolia";
+  "https://github-readme-stats-bufgix.vercel.app/api/top-langs/?username=bufgix&layout=compact&langs_count=8&theme=algolia";
