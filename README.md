@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [React Native: Carousels with Horizontal Scroll Views](https://rossbulat.medium.com/react-native-carousels-with-horizontal-scroll-views-60b0587a670c)
 - [Next.js with MobX](https://www.themikelewis.com/post/nextjs-with-mobx)
 - [Create a custom eslint rule with typescript - DEV Community](https://dev.to/bwca/create-a-custom-eslint-rule-with-typescript-4j3d)
 - [Framer Guide to React](https://www.framer.com/books/framer-guide-to-react/#theory)
 - [fettblog.eu | TypeScript, JavaScript, Web Dev Articles](https://fettblog.eu/)
-- [TypeScript + React: Why I don't use React.FC](https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/)
 
 
 <br/>
