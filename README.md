@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [How Animations Work in React Native](https://www.freecodecamp.org/news/how-react-native-animations-work/)
 - [Node.js REST API | Sequelize ORM | Swagger | Unit Test](https://aoguz.medium.com/node-js-rest-api-sequelize-orm-swagger-unit-test-fcfb145ad1a1)
 - [In-App Purchases in React Native](https://dev-yakuza.posstree.com/en/react-native/react-native-iap/)
 - [git implementation with javascript](http://gitlet.maryrosecook.com/docs/gitlet.html)
 - [Writing a blockchain in 60 readable lines of TypeScript](https://dev.to/ninofiliu/writing-a-blockchain-in-60-readable-lines-of-typescript-1009)
-- [React Native: Carousels with Horizontal Scroll Views](https://rossbulat.medium.com/react-native-carousels-with-horizontal-scroll-views-60b0587a670c)
 
 
 <br/>
