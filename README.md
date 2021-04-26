@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [Git - How to fix a bad commit - DEV Community](https://dev.to/guivern/git-how-to-fix-a-bad-commit-4068)
 - [The Ultimate Guide to handling JWTs on frontend clients (GraphQL)](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/#intro)
 - [Update your React Native apps seamlessly using Microsoft's CodePush](https://dev.to/karanpratapsingh/update-your-react-native-apps-seamlessly-using-microsoft-s-codepush-f61)
 - [React Native CodePush Kullanımı – Yusuf Pamukçu](https://www.yusufpamukcu.com/reactnative-codepush-kullanimi/)
 - [How Animations Work in React Native](https://www.freecodecamp.org/news/how-react-native-animations-work/)
-- [Node.js REST API | Sequelize ORM | Swagger | Unit Test](https://aoguz.medium.com/node-js-rest-api-sequelize-orm-swagger-unit-test-fcfb145ad1a1)
 
 
 <br/>
