@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Raindrops
+- [Implementing the Container Pattern using React Hooks | by Sonny Recio | Bits and Pieces](https://blog.bitsrc.io/implementing-the-container-pattern-using-react-hooks-f490a8492d05)
 - [Optimizing React Native. by Nick Cherry, Staff Software Engineer | by Coinbase | The Coinbase Blog](https://blog.coinbase.com/optimizing-react-native-7e7bf7ac3a34)
 - [Git - How to fix a bad commit - DEV Community](https://dev.to/guivern/git-how-to-fix-a-bad-commit-4068)
 - [The Ultimate Guide to handling JWTs on frontend clients (GraphQL)](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/#intro)
 - [Update your React Native apps seamlessly using Microsoft's CodePush](https://dev.to/karanpratapsingh/update-your-react-native-apps-seamlessly-using-microsoft-s-codepush-f61)
-- [React Native CodePush Kullanımı – Yusuf Pamukçu](https://www.yusufpamukcu.com/reactnative-codepush-kullanimi/)
 
 
 <br/>
