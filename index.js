@@ -42,7 +42,7 @@ ${Object.entries(config.SKILLS)
 </a>
 </p>
 
-### 🔖 &nbsp;My Last Raindrops
+### 🔖 &nbsp;My Last Bookmarks
 ${res.items
   .map(({ link, title }) => {
     return `- [${title}](${link})\n`;
