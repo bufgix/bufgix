@@ -37,7 +37,7 @@
 </a>
 </p>
 
-### 🔖 &nbsp;My Last Raindrops
+### 🔖 &nbsp;My Last Bookmarks
 - [TailwindCSS: Adds complexity, does nothing.](https://dev.to/brianboyko/tailwindcss-adds-complexity-does-nothing-3hpn)
 - [Abstraction ve Encapsulation tam olarak nedir? | by Tarik Guney | Medium](https://atarikguney.medium.com/abstraction-ve-encapsulation-tam-olarak-nedir-27b9aae99e56)
 - [System Design: WhatsApp. (Facebook Messenger App) | by Interview Daemon | Medium](https://interviewdaemon.medium.com/system-design-whatsapp-788705bd4fb0)
