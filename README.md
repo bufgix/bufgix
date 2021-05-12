@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [A Look at Tailwind CSS - Ahmad Shadeed](https://ishadeed.com/article/on-tailwindcss/)
 - [TailwindCSS: Adds complexity, does nothing.](https://dev.to/brianboyko/tailwindcss-adds-complexity-does-nothing-3hpn)
 - [Abstraction ve Encapsulation tam olarak nedir? | by Tarik Guney | Medium](https://atarikguney.medium.com/abstraction-ve-encapsulation-tam-olarak-nedir-27b9aae99e56)
 - [System Design: WhatsApp. (Facebook Messenger App) | by Interview Daemon | Medium](https://interviewdaemon.medium.com/system-design-whatsapp-788705bd4fb0)
 - [Implementing the Container Pattern using React Hooks | by Sonny Recio | Bits and Pieces](https://blog.bitsrc.io/implementing-the-container-pattern-using-react-hooks-f490a8492d05)
-- [Optimizing React Native. by Nick Cherry, Staff Software Engineer | by Coinbase | The Coinbase Blog](https://blog.coinbase.com/optimizing-react-native-7e7bf7ac3a34)
 
 
 <br/>
