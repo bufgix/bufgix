@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [How to manage global state with XState and React - DEV Community 👩‍💻👨‍💻](https://dev.to/mpocock1/how-to-manage-global-state-with-xstate-and-react-3if5)
 - [Using Native Driver for Animated · React Native](https://reactnative.dev/blog/2017/02/14/using-native-driver-for-animated)
 - [React Native ile 60 FPS Animasyonlar - Enes Ozturk](https://ozturkenes.com/blog/react-native-ile-60-fps-animasyonlar#%C3%B6rnek-uygulama)
 - [A Look at Tailwind CSS - Ahmad Shadeed](https://ishadeed.com/article/on-tailwindcss/)
 - [TailwindCSS: Adds complexity, does nothing.](https://dev.to/brianboyko/tailwindcss-adds-complexity-does-nothing-3hpn)
-- [Abstraction ve Encapsulation tam olarak nedir? | by Tarik Guney | Medium](https://atarikguney.medium.com/abstraction-ve-encapsulation-tam-olarak-nedir-27b9aae99e56)
 
 
 <br/>
