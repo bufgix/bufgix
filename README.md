@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [The Critical Request: How to Prioritise Requests to Improve Speed | Calibre](https://calibreapp.com/blog/critical-request?utm_source=Perf.email&utm_campaign=7357fb9aa1-Perf+Email+%2374&utm_medium=email&utm_term=0_7cba5dc7bd-7357fb9aa1-1249543725)
+- [Derin Düşünme ve Odaklanma Becerimi Geri Kazanma Hikayem](https://seyfedd.in/writing/derin-dusunme-ve-odaklanma-becerimi-geri-kazanma-hikayem)
+- [CSS Container Queries For Designers - Ahmad Shadeed](https://ishadeed.com/article/container-queries-for-designers/)
+- [Serverless Functions: The Secret to Ultra-Productive Front-End Teams | CSS-Tricks](https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/)
 - [How to manage global state with XState and React - DEV Community 👩‍💻👨‍💻](https://dev.to/mpocock1/how-to-manage-global-state-with-xstate-and-react-3if5)
-- [Using Native Driver for Animated · React Native](https://reactnative.dev/blog/2017/02/14/using-native-driver-for-animated)
-- [React Native ile 60 FPS Animasyonlar - Enes Ozturk](https://ozturkenes.com/blog/react-native-ile-60-fps-animasyonlar#%C3%B6rnek-uygulama)
-- [A Look at Tailwind CSS - Ahmad Shadeed](https://ishadeed.com/article/on-tailwindcss/)
-- [TailwindCSS: Adds complexity, does nothing.](https://dev.to/brianboyko/tailwindcss-adds-complexity-does-nothing-3hpn)
 
 
 <br/>
