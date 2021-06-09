@@ -38,11 +38,11 @@
 </p>
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Nasıl Kaliteli Yazılım Mühendisi Olunur? | by Tarik Guney | Türkçe Yayın | Medium](https://medium.com/t%C3%BCrkiye/nas%C4%B1l-kaliteli-yaz%C4%B1l%C4%B1m-m%C3%BChendisi-olunur-3956596116e9)
 - [Why you should NEVER put a list of ‘skill levels’ on your resume](https://medium.com/@BartWaardenburg/why-you-should-never-put-a-list-of-skill-levels-on-your-resume-32f5f7fe713)
 - [Bytecode Alliance](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly)
 - [The Critical Request: How to Prioritise Requests to Improve Speed | Calibre](https://calibreapp.com/blog/critical-request?utm_source=Perf.email&utm_campaign=7357fb9aa1-Perf+Email+%2374&utm_medium=email&utm_term=0_7cba5dc7bd-7357fb9aa1-1249543725)
 - [Derin Düşünme ve Odaklanma Becerimi Geri Kazanma Hikayem](https://seyfedd.in/writing/derin-dusunme-ve-odaklanma-becerimi-geri-kazanma-hikayem)
-- [CSS Container Queries For Designers - Ahmad Shadeed](https://ishadeed.com/article/container-queries-for-designers/)
 
 
 <br/>
