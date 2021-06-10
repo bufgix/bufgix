@@ -28,15 +28,6 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/bufgix">
-  <img height="180em" src="https://github-readme-stats-bufgix.vercel.app/api?username=bufgix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-bufgix.vercel.app/api/top-langs/?username=bufgix&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### 🔖 &nbsp;My Last Bookmarks
 - [Nasıl Kaliteli Yazılım Mühendisi Olunur? | by Tarik Guney | Türkçe Yayın | Medium](https://medium.com/t%C3%BCrkiye/nas%C4%B1l-kaliteli-yaz%C4%B1l%C4%B1m-m%C3%BChendisi-olunur-3956596116e9)
 - [Why you should NEVER put a list of ‘skill levels’ on your resume](https://medium.com/@BartWaardenburg/why-you-should-never-put-a-list-of-skill-levels-on-your-resume-32f5f7fe713)
