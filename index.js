@@ -35,15 +35,6 @@ ${Object.entries(config.SKILLS)
   .join("")}
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/bufgix">
-  <img height="180em" src="${config.GITHUB_STATICS_URL}"/>
-  <img height="180em" src="${config.MOST_LANG}"/>
-</a>
-</p>
-
 ### 🔖 &nbsp;My Last Bookmarks
 ${res.items
   .map(({ link, title }) => {
