@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Docker Görüntünüzün Boyutunu Minimize Edin :: /dev/anil](https://anxl.dev/blog/minify-docker-image/)
 - [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components/)
 - [rn-fastlane-githubactions/pre-release.yml at main · antoinecellier/rn-fastlane-githubactions](https://github.com/antoinecellier/rn-fastlane-githubactions/blob/main/.github/workflows/pre-release.yml)
 - [Dokümantasyon Okurken Kaybolmak. İnsan doğası gereği kompleks bir… | by Tarik Guney | Medium](https://atarikguney.medium.com/d%C3%B6k%C3%BCmantasyon-okurken-kaybolmak-81f463bb38a2)
 - [Nasıl Kaliteli Yazılım Mühendisi Olunur? | by Tarik Guney | Türkçe Yayın | Medium](https://medium.com/t%C3%BCrkiye/nas%C4%B1l-kaliteli-yaz%C4%B1l%C4%B1m-m%C3%BChendisi-olunur-3956596116e9)
-- [Why you should NEVER put a list of ‘skill levels’ on your resume](https://medium.com/@BartWaardenburg/why-you-should-never-put-a-list-of-skill-levels-on-your-resume-32f5f7fe713)
 
 
 <br/>
