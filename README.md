@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Trigonometry in CSS and JavaScript: Introduction to Trigonometry | Codrops](https://tympanus.net/codrops/2021/06/01/trigonometry-in-css-and-javascript-introduction-to-trigonometry/)
+- [Manage your States Easily and Keep it Clean with Redux-Toolkit in React Native](https://ilterkose.medium.com/manage-your-states-easily-and-keep-it-clean-with-redux-toolkit-in-react-native-4c9a5c2b24cb)
 - [Docker Görüntünüzün Boyutunu Minimize Edin :: /dev/anil](https://anxl.dev/blog/minify-docker-image/)
 - [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components/)
 - [rn-fastlane-githubactions/pre-release.yml at main · antoinecellier/rn-fastlane-githubactions](https://github.com/antoinecellier/rn-fastlane-githubactions/blob/main/.github/workflows/pre-release.yml)
-- [Dokümantasyon Okurken Kaybolmak. İnsan doğası gereği kompleks bir… | by Tarik Guney | Medium](https://atarikguney.medium.com/d%C3%B6k%C3%BCmantasyon-okurken-kaybolmak-81f463bb38a2)
-- [Nasıl Kaliteli Yazılım Mühendisi Olunur? | by Tarik Guney | Türkçe Yayın | Medium](https://medium.com/t%C3%BCrkiye/nas%C4%B1l-kaliteli-yaz%C4%B1l%C4%B1m-m%C3%BChendisi-olunur-3956596116e9)
 
 
 <br/>
