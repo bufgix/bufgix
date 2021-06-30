@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
 - [Trigonometry in CSS and JavaScript: Introduction to Trigonometry | Codrops](https://tympanus.net/codrops/2021/06/01/trigonometry-in-css-and-javascript-introduction-to-trigonometry/)
 - [Manage your States Easily and Keep it Clean with Redux-Toolkit in React Native](https://ilterkose.medium.com/manage-your-states-easily-and-keep-it-clean-with-redux-toolkit-in-react-native-4c9a5c2b24cb)
 - [Docker Görüntünüzün Boyutunu Minimize Edin :: /dev/anil](https://anxl.dev/blog/minify-docker-image/)
 - [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components/)
-- [rn-fastlane-githubactions/pre-release.yml at main · antoinecellier/rn-fastlane-githubactions](https://github.com/antoinecellier/rn-fastlane-githubactions/blob/main/.github/workflows/pre-release.yml)
 
 
 <br/>
