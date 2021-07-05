@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [UI Testing in React Native with Detox | by Irem Karaoglu | Jul, 2021 | Medium](https://iremkaraoglu.medium.com/ui-testing-in-react-native-with-detox-fa28ef310830)
 - [Code Splitting in React Native Applications - {Callstack} Blog](https://callstack.com/blog/code-splitting-in-react-native-applications/?utm_campaign=Re_Pack&utm_source=twitter&utm_medium=social&utm_content=Code_splitting_art)
 - [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
 - [Trigonometry in CSS and JavaScript: Introduction to Trigonometry | Codrops](https://tympanus.net/codrops/2021/06/01/trigonometry-in-css-and-javascript-introduction-to-trigonometry/)
 - [Manage your States Easily and Keep it Clean with Redux-Toolkit in React Native](https://ilterkose.medium.com/manage-your-states-easily-and-keep-it-clean-with-redux-toolkit-in-react-native-4c9a5c2b24cb)
-- [Docker Görüntünüzün Boyutunu Minimize Edin :: /dev/anil](https://anxl.dev/blog/minify-docker-image/)
 
 
 <br/>
