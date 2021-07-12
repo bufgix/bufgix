@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
 - [Automatic Versioning for React Native Apps](https://dev.to/osamaqarem/automatic-versioning-for-react-native-apps-2bf3)
 - [UI Testing in React Native with Detox | by Irem Karaoglu | Jul, 2021 | Medium](https://iremkaraoglu.medium.com/ui-testing-in-react-native-with-detox-fa28ef310830)
 - [Code Splitting in React Native Applications - {Callstack} Blog](https://callstack.com/blog/code-splitting-in-react-native-applications/?utm_campaign=Re_Pack&utm_source=twitter&utm_medium=social&utm_content=Code_splitting_art)
 - [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
-- [Trigonometry in CSS and JavaScript: Introduction to Trigonometry | Codrops](https://tympanus.net/codrops/2021/06/01/trigonometry-in-css-and-javascript-introduction-to-trigonometry/)
 
 
 <br/>
