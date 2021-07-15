@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Automate and enforce conventional commits for .NET based projects](https://medium.com/yasser-dev/automate-and-enforce-conventional-commits-for-net-based-projects-a322be7a1eb7)
 - [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
 - [Automatic Versioning for React Native Apps](https://dev.to/osamaqarem/automatic-versioning-for-react-native-apps-2bf3)
 - [UI Testing in React Native with Detox | by Irem Karaoglu | Jul, 2021 | Medium](https://iremkaraoglu.medium.com/ui-testing-in-react-native-with-detox-fa28ef310830)
 - [Code Splitting in React Native Applications - {Callstack} Blog](https://callstack.com/blog/code-splitting-in-react-native-applications/?utm_campaign=Re_Pack&utm_source=twitter&utm_medium=social&utm_content=Code_splitting_art)
-- [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
 
 
 <br/>
