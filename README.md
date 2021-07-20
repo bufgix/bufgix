@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [How to test asynchronous methods](https://polvara.me/posts/how-to-test-asynchronous-methods)
 - [Avoid Nesting when you're Testing](https://kentcdodds.com/blog/avoid-nesting-when-youre-testing)
 - [Modern React testing, part 3: Jest and React Testing Library — Artem Sapegin’s Blog](https://blog.sapegin.me/all/react-testing-3-jest-and-react-testing-library/)
 - [Başarılı olmada kabiliyetlerin önemi](https://atarikguney.medium.com/ba%C5%9Far%C4%B1l%C4%B1-olmada-kabiliyetlerin-%C3%B6nemi-f17e276482e4)
 - [React Native uygulamalarında çoklu dil desteği nasıl yapılır?](https://zaferayan.medium.com/react-native-uygulamalar%C4%B1nda-%C3%A7oklu-dil-deste%C4%9Fi-nas%C4%B1l-yap%C4%B1l%C4%B1r-4f9c28feccbe)
-- [Automate and enforce conventional commits for .NET based projects](https://medium.com/yasser-dev/automate-and-enforce-conventional-commits-for-net-based-projects-a322be7a1eb7)
 
 
 <br/>
