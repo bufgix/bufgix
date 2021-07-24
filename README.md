@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Blogged Answers: Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux) · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/01/context-redux-differences/)
 - [callstack/react-native-builder-bob: 👷‍♂️ Simple set of CLIs to scaffold and build React Native libraries for different targets](https://github.com/callstack/react-native-builder-bob)
 - [How to test asynchronous methods](https://polvara.me/posts/how-to-test-asynchronous-methods)
 - [Avoid Nesting when you're Testing](https://kentcdodds.com/blog/avoid-nesting-when-youre-testing)
 - [Modern React testing, part 3: Jest and React Testing Library — Artem Sapegin’s Blog](https://blog.sapegin.me/all/react-testing-3-jest-and-react-testing-library/)
-- [Başarılı olmada kabiliyetlerin önemi](https://atarikguney.medium.com/ba%C5%9Far%C4%B1l%C4%B1-olmada-kabiliyetlerin-%C3%B6nemi-f17e276482e4)
 
 
 <br/>
