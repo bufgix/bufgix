@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [21 Predictions about the Software Development Trends in 2021](https://towardsdatascience.com/21-predictions-about-the-software-development-trends-in-2021-600bfa048be)
 - [Building a splash screen in React Native - LogRocket Blog](https://blog.logrocket.com/building-a-splash-screen-in-react-native/)
 - [Sprint İçinde Gelen Plansız İşleri Ne Yapmak Lazım? | by Umut Gökbayrak | Çevik Yazılım Geliştirme | Aug, 2021 | Medium](https://medium.com/%C3%A7evik-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme/sprint-i%CC%87%C3%A7inde-gelen-plans%C4%B1z-i%CC%87%C5%9Fleri-ne-yapmak-laz%C4%B1m-d956a8a6c0b2)
 - [A Visual Guide to React Rendering - It Always Re-renders | Alex Sidorenko](https://alexsidorenko.com/blog/react-render-always-rerenders/)
 - [Blogged Answers: Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux) · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/01/context-redux-differences/)
-- [callstack/react-native-builder-bob: 👷‍♂️ Simple set of CLIs to scaffold and build React Native libraries for different targets](https://github.com/callstack/react-native-builder-bob)
 
 
 <br/>
