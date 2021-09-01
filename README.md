@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Basit Bir Hesap Makinesi Nasıl Responsive Yapılır ?](https://medium.com/frontend-development-with-js/basit-bir-hesap-makinesi-nas%C4%B1l-responsive-yap%C4%B1l%C4%B1r-e929a082a0ed)
 - [React Native JSI Nedir? Yeni mimari neler getiriyor? | by Zafer Ayan | Medium](https://zaferayan.medium.com/react-native-jsi-nedir-yeni-mimari-neler-getiriyor-d055acbc2933)
 - [I Left My Job Because of TypeScript | by Bernard Bado | Aug, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/i-left-my-job-because-of-typescript-3df0cb38bdbf)
 - [How to Offer Multi-language Support in a React Native App by Aman Mittal](https://amanhimself.dev/blog/multi-language-support-in-react-native-with-react-i18next/)
 - [21 Predictions about the Software Development Trends in 2021](https://towardsdatascience.com/21-predictions-about-the-software-development-trends-in-2021-600bfa048be)
-- [Building a splash screen in React Native - LogRocket Blog](https://blog.logrocket.com/building-a-splash-screen-in-react-native/)
 
 
 <br/>
