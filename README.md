@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Netlify Nasıl Çalışıyor ?](https://medium.com/cloud-and-servers/netlify-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1yor-69a333a56762)
 - [Spotify Kodlarını İnceleyelim. TikTok’ta gezerken insanların… | by Özge Çinko | Sep, 2021 | Medium](https://ozgecinko.medium.com/spotify-kodlar%C4%B1n%C4%B1-i%CC%87nceleyelim-af4a96d7f434)
 - [Basit Bir Hesap Makinesi Nasıl Responsive Yapılır ?](https://medium.com/frontend-development-with-js/basit-bir-hesap-makinesi-nas%C4%B1l-responsive-yap%C4%B1l%C4%B1r-e929a082a0ed)
 - [React Native JSI Nedir? Yeni mimari neler getiriyor? | by Zafer Ayan | Medium](https://zaferayan.medium.com/react-native-jsi-nedir-yeni-mimari-neler-getiriyor-d055acbc2933)
 - [I Left My Job Because of TypeScript | by Bernard Bado | Aug, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/i-left-my-job-because-of-typescript-3df0cb38bdbf)
-- [How to Offer Multi-language Support in a React Native App by Aman Mittal](https://amanhimself.dev/blog/multi-language-support-in-react-native-with-react-i18next/)
 
 
 <br/>
