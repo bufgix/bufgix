@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [React Query Error Handling | TkDodo's blog](https://tkdodo.eu/blog/react-query-error-handling)
 - [Vim cheatsheet](https://devhints.io/vim)
 - [Neovim and Tmux for JavaScript Development](https://elijahmanor.com/blog/neovim-tmux)
 - [React Native JSI’a Derinlemesine Bakış | by Zafer Ayan | Sep, 2021 | Medium](https://zaferayan.medium.com/react-native-jsia-derinlemesine-bak%C4%B1%C5%9F-c36a2021358f)
 - [Netlify Nasıl Çalışıyor ?](https://medium.com/cloud-and-servers/netlify-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1yor-69a333a56762)
-- [Spotify Kodlarını İnceleyelim. TikTok’ta gezerken insanların… | by Özge Çinko | Sep, 2021 | Medium](https://ozgecinko.medium.com/spotify-kodlar%C4%B1n%C4%B1-i%CC%87nceleyelim-af4a96d7f434)
 
 
 <br/>
