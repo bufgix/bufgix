@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [TkDodo's blog](https://tkdodo.eu/blog/)
 - [Importing React Through the Ages | Epic React by Kent C. Dodds](https://epicreact.dev/importing-react-through-the-ages/)
 - [React Query Error Handling | TkDodo's blog](https://tkdodo.eu/blog/react-query-error-handling)
 - [Vim cheatsheet](https://devhints.io/vim)
 - [Neovim and Tmux for JavaScript Development](https://elijahmanor.com/blog/neovim-tmux)
-- [React Native JSI’a Derinlemesine Bakış | by Zafer Ayan | Sep, 2021 | Medium](https://zaferayan.medium.com/react-native-jsia-derinlemesine-bak%C4%B1%C5%9F-c36a2021358f)
 
 
 <br/>
