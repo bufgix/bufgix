@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - [A Complete Guide to useEffect — Overreacted](https://overreacted.io/a-complete-guide-to-useeffect/)
 - [TkDodo's blog](https://tkdodo.eu/blog/)
 - [Importing React Through the Ages | Epic React by Kent C. Dodds](https://epicreact.dev/importing-react-through-the-ages/)
 - [React Query Error Handling | TkDodo's blog](https://tkdodo.eu/blog/react-query-error-handling)
-- [Vim cheatsheet](https://devhints.io/vim)
 
 
 <br/>
