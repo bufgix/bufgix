@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Small Bundles, Fast Pages: What To Do With Too Much JavaScript | Calibre](https://calibreapp.com/blog/bundle-size-optimization)
 - [Why Typescript and Svelte are a match made in heaven](https://www.sanity.io/guides/using-typescript-with-svelte)
 - [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - [A Complete Guide to useEffect — Overreacted](https://overreacted.io/a-complete-guide-to-useeffect/)
 - [TkDodo's blog](https://tkdodo.eu/blog/)
-- [Importing React Through the Ages | Epic React by Kent C. Dodds](https://epicreact.dev/importing-react-through-the-ages/)
 
 
 <br/>
