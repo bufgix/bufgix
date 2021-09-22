@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Creating a d3 Map in a Mobile App Using React Native | by Joseph (Geolic) | Nightingale | Medium](https://medium.com/nightingale/creating-a-d3-map-in-a-mobile-app-using-react-native-46da1e6b3be6)
 - [File-based routing with React Router | Omar Elhawary](https://omarelhawary.me/blog/file-based-routing-with-react-router)
 - [How to use React Context like a pro - Pierre Ouannes](https://devtrium.com/posts/how-use-react-context-pro)
 - [Small Bundles, Fast Pages: What To Do With Too Much JavaScript | Calibre](https://calibreapp.com/blog/bundle-size-optimization)
 - [Why Typescript and Svelte are a match made in heaven](https://www.sanity.io/guides/using-typescript-with-svelte)
-- [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 
 
 <br/>
