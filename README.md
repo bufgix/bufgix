@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [How I made Google’s data grid scroll 10x faster with one line of CSS | by Johan Isaksson | Oct, 2021 | Medium](https://medium.com/@johan.isaksson/how-i-made-googles-data-grid-scroll-10x-faster-with-one-line-of-css-78cb1e8d9cb1)
 - [Covariance and Contravariance in TypeScript](https://dmitripavlutin.com/typescript-covariance-contravariance/)
 - [3 TypeScript Tricks I wish I knew when I learned TypeScript](https://www.cstrnt.dev/blog/three-typescript-tricks)
 - [How to destroy your app performance using React contexts](https://thoughtspile.github.io/2021/10/04/react-context-dangers/)
 - [Redux side effects and you. Should you care about alternatives to… | by Francois Ward | JavaScript and Opinions | Medium](https://medium.com/javascript-and-opinions/redux-side-effects-and-you-66f2e0842fc3)
-- [Creating a d3 Map in a Mobile App Using React Native | by Joseph (Geolic) | Nightingale | Medium](https://medium.com/nightingale/creating-a-d3-map-in-a-mobile-app-using-react-native-46da1e6b3be6)
 
 
 <br/>
