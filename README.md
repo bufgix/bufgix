@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Writing a chess program in one day | by Andreas Stöckl | Medium](https://andreasstckl.medium.com/writing-a-chess-program-in-one-day-30daff4610ec)
 - [Creating a React component with TDD](https://dev.to/mbarzeev/creating-a-react-component-with-tdd-2jn8)
 - [Micro Frontends Architecture with Webpack Module Federation (Part 1) | by Sercan Eraslan | Trendyol Tech | Nov, 2021 | Medium](https://medium.com/trendyol-tech/micro-frontend-architecture-with-webpack-module-federation-part-1-9827d436bd1e)
 - [Trie in Javascript: the Data Structure behind Autocomplete](https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete)
 - [How to Generate Beautiful PDFs with React and Puppeteer | Theodo](https://blog.theodo.com/2021/10/pdf-generation-react-puppeteer/)
-- [How I made Google’s data grid scroll 10x faster with one line of CSS | by Johan Isaksson | Oct, 2021 | Medium](https://medium.com/@johan.isaksson/how-i-made-googles-data-grid-scroll-10x-faster-with-one-line-of-css-78cb1e8d9cb1)
 
 
 <br/>
