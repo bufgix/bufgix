@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [CPython'a yeni bir operatör eklemek · Batuhanın Günlüğü](https://isidentical-archive.github.io/cpython-yeni-operator.html)
+- [Replacing import with accio: A Dive into Bootstrapping and Python's Grammar](http://mathamy.com/import-accio-bootstrapping-python-grammar.html)
+- [Coding Career Advice: Using Git for Version Control Effectively · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/01/coding-career-git-usage/)
 - [React hooks the rebirth of state management](https://tannerlinsley.com/blog/react-hooks-the-rebirth-of-state-management)
 - [The Invisible JavaScript Backdoor – Certitude Blog](https://certitude.consulting/blog/en/invisible-backdoor/)
-- [Writing a chess program in one day | by Andreas Stöckl | Medium](https://andreasstckl.medium.com/writing-a-chess-program-in-one-day-30daff4610ec)
-- [Creating a React component with TDD](https://dev.to/mbarzeev/creating-a-react-component-with-tdd-2jn8)
-- [Micro Frontends Architecture with Webpack Module Federation (Part 1) | by Sercan Eraslan | Trendyol Tech | Nov, 2021 | Medium](https://medium.com/trendyol-tech/micro-frontend-architecture-with-webpack-module-federation-part-1-9827d436bd1e)
 
 
 <br/>
