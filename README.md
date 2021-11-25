@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [How JavaScript engines achieve great performance | by Robin Heggelund Hansen | Nov, 2021 | Bekk](https://blogg.bekk.no/how-javascript-engines-achieve-great-performance-fb0b36601557)
 - [CPython'a yeni bir operatör eklemek · Batuhanın Günlüğü](https://isidentical-archive.github.io/cpython-yeni-operator.html)
 - [Replacing import with accio: A Dive into Bootstrapping and Python's Grammar](http://mathamy.com/import-accio-bootstrapping-python-grammar.html)
 - [Coding Career Advice: Using Git for Version Control Effectively · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/01/coding-career-git-usage/)
 - [React hooks the rebirth of state management](https://tannerlinsley.com/blog/react-hooks-the-rebirth-of-state-management)
-- [The Invisible JavaScript Backdoor – Certitude Blog](https://certitude.consulting/blog/en/invisible-backdoor/)
 
 
 <br/>
