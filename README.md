@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Old CSS, new CSS / fuzzy notepad](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 - [Redux-like state container in SwiftUI. Basics.](https://swiftwithmajid.com/2019/09/18/redux-like-state-container-in-swiftui/)
 - [Getting a Redux Vibe Into SwiftUI | raywenderlich.com](https://www.raywenderlich.com/22096649-getting-a-redux-vibe-into-swiftui)
 - [Introduction to Testing React Native Apps - Appcircle](https://appcircle.io/blog/introduction-to-testing-react-native-apps/)
 - [How do arrays work?](https://nan.fyi/how-arrays-work)
-- [How JavaScript engines achieve great performance | by Robin Heggelund Hansen | Nov, 2021 | Bekk](https://blogg.bekk.no/how-javascript-engines-achieve-great-performance-fb0b36601557)
 
 
 <br/>
