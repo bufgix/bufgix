@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [The many meanings of $ in Svelte - Geoff Rich](https://geoffrich.net/posts/svelte-$-meanings/)
 - [Defensive CSS - Ahmad Shadeed](https://ishadeed.com/article/defensive-css/)
 - [Old CSS, new CSS / fuzzy notepad](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 - [Redux-like state container in SwiftUI. Basics.](https://swiftwithmajid.com/2019/09/18/redux-like-state-container-in-swiftui/)
 - [Getting a Redux Vibe Into SwiftUI | raywenderlich.com](https://www.raywenderlich.com/22096649-getting-a-redux-vibe-into-swiftui)
-- [Introduction to Testing React Native Apps - Appcircle](https://appcircle.io/blog/introduction-to-testing-react-native-apps/)
 
 
 <br/>
