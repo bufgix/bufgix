@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [/dev/null: Anti-Cheat Kernel Driver - League of Legends](https://www.leagueoflegends.com/en-us/news/dev/dev-null-anti-cheat-kernel-driver/)
 - [My love letter to XState and statecharts ♥](https://dev.to/timdeschryver/my-love-letter-to-xstate-and-statecharts-287b)
 - [Write code that is easy to delete, not easy to... — programming is terrible](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
 - [The many meanings of $ in Svelte - Geoff Rich](https://geoffrich.net/posts/svelte-$-meanings/)
 - [Defensive CSS - Ahmad Shadeed](https://ishadeed.com/article/defensive-css/)
-- [Old CSS, new CSS / fuzzy notepad](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 
 
 <br/>
