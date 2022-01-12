@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Make Beautiful Gradients in CSS, with linear-gradient, radial-gradient, or conic-gradient.](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
 - [Past, Present, and Future of React State Management – Lee Robinson](https://leerob.io/blog/react-state-management)
 - [Rust Is The Future of JavaScript Infrastructure – Lee Robinson](https://leerob.io/blog/rust)
 - [/dev/null: Anti-Cheat Kernel Driver - League of Legends](https://www.leagueoflegends.com/en-us/news/dev/dev-null-anti-cheat-kernel-driver/)
 - [My love letter to XState and statecharts ♥](https://dev.to/timdeschryver/my-love-letter-to-xstate-and-statecharts-287b)
-- [Write code that is easy to delete, not easy to... — programming is terrible](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
 
 
 <br/>
