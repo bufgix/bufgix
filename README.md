@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [A Small Guide for Naming Stuff in Front-end Code – Frank M Taylor](https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/)
 - [Make Beautiful Gradients in CSS, with linear-gradient, radial-gradient, or conic-gradient.](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
 - [Past, Present, and Future of React State Management – Lee Robinson](https://leerob.io/blog/react-state-management)
 - [Rust Is The Future of JavaScript Infrastructure – Lee Robinson](https://leerob.io/blog/rust)
 - [/dev/null: Anti-Cheat Kernel Driver - League of Legends](https://www.leagueoflegends.com/en-us/news/dev/dev-null-anti-cheat-kernel-driver/)
-- [My love letter to XState and statecharts ♥](https://dev.to/timdeschryver/my-love-letter-to-xstate-and-statecharts-287b)
 
 
 <br/>
