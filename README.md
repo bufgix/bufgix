@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Git Organized: A Better Git Flow | Render](https://render.com/blog/git-organized-a-better-git-flow)
 - [Execute Program](https://www.executeprogram.com/blog/typescript-features-to-avoid)
 - [A Small Guide for Naming Stuff in Front-end Code – Frank M Taylor](https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/)
 - [Make Beautiful Gradients in CSS, with linear-gradient, radial-gradient, or conic-gradient.](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
 - [Past, Present, and Future of React State Management – Lee Robinson](https://leerob.io/blog/react-state-management)
-- [Rust Is The Future of JavaScript Infrastructure – Lee Robinson](https://leerob.io/blog/rust)
 
 
 <br/>
