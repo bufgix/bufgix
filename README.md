@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Next-generation web styling](https://web.dev/next-gen-css-2019/)
+- [Hasktir, Git!?!](https://ohshitgit.com/tr)
 - [The five Levels of Hype](https://johannesklingebiel.de/2022/01/12/hype-as-a-scale.html)
 - [Git Organized: A Better Git Flow | Render](https://render.com/blog/git-organized-a-better-git-flow)
 - [Execute Program](https://www.executeprogram.com/blog/typescript-features-to-avoid)
-- [A Small Guide for Naming Stuff in Front-end Code – Frank M Taylor](https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/)
-- [Make Beautiful Gradients in CSS, with linear-gradient, radial-gradient, or conic-gradient.](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
 
 
 <br/>
