@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [JavaScript memory model demystified - zhenghao](https://zhenghao.io/)
 - [Next-generation web styling](https://web.dev/next-gen-css-2019/)
 - [Hasktir, Git!?!](https://ohshitgit.com/tr)
 - [The five Levels of Hype](https://johannesklingebiel.de/2022/01/12/hype-as-a-scale.html)
 - [Git Organized: A Better Git Flow | Render](https://render.com/blog/git-organized-a-better-git-flow)
-- [Execute Program](https://www.executeprogram.com/blog/typescript-features-to-avoid)
 
 
 <br/>
