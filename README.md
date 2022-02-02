@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [An introduction to type programming in TypeScript - zhenghao](https://zhenghao.io/posts/type-programming)
 - [Optimize Enums in TypeScript with](https://ultimatecourses.com/blog/const-enums-typescript)
 - [Patterns.dev - Modern Web App Design Patterns](https://patterns.dev/)
 - [5 Xcode Extensions You Must Have](https://betterprogramming.pub/5-xcode-extensions-you-must-have-46fb1fd39e7a)
 - [JavaScript memory model demystified - zhenghao](https://zhenghao.io/)
-- [Next-generation web styling](https://web.dev/next-gen-css-2019/)
 
 
 <br/>
