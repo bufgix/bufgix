@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [What Every Programmer Absolutely, Positively Needs to Know About Encodings and Character Sets to Work With Text](https://kunststube.net/encoding/)
 - [Using global memoization in React](https://thoughtspile.github.io/2022/02/09/react-global-memo/)
 - [A Visual Guide to References in JavaScript](https://daveceddia.com/javascript-references/)
 - [Immutability in React and Redux: The Complete Guide](https://daveceddia.com/react-redux-immutability-guide/)
 - [An introduction to type programming in TypeScript - zhenghao](https://zhenghao.io/posts/type-programming)
-- [Optimize Enums in TypeScript with](https://ultimatecourses.com/blog/const-enums-typescript)
 
 
 <br/>
