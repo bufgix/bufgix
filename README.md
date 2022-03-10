@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Let's learn SvelteKit by building a static Markdown blog from scratch - Josh Collinsworth blog](https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog)
 - [Writing Better CSS | Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/blog/writing-better-css/)
 - [Hooks: React’s do-notation || Devansh Jethmalani / Writings](https://devanshj.me/writings/hooks-reacts-do-notation)
 - [Understanding V8’s Bytecode. V8 is Google’s open source JavaScript… | by Franziska Hinkelmann | DailyJS | Medium](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 - [V8 function optimization - Blog by Kemal Erdem](https://erdem.pl/2019/08/v-8-function-optimization)
-- [Monorepo Explained](https://monorepo.tools/#what-is-a-monorepo)
 
 
 <br/>
