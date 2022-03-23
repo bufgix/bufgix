@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Preemptive memoization in React is probably not Evil (yet) - zhenghao](https://zhenghao.io/posts/memo-or-not)
+- [Your SSR is slow & your devtools are lying to you - DEV Community](https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056)
 - [Let's learn SvelteKit by building a static Markdown blog from scratch - Josh Collinsworth blog](https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog)
 - [Writing Better CSS | Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/blog/writing-better-css/)
 - [Hooks: React’s do-notation || Devansh Jethmalani / Writings](https://devanshj.me/writings/hooks-reacts-do-notation)
-- [Understanding V8’s Bytecode. V8 is Google’s open source JavaScript… | by Franziska Hinkelmann | DailyJS | Medium](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
-- [V8 function optimization - Blog by Kemal Erdem](https://erdem.pl/2019/08/v-8-function-optimization)
 
 
 <br/>
