@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [When does React render your component? - zhenghao](https://zhenghao.io/posts/react-rerender)
 - [Preemptive memoization in React is probably not Evil (yet) - zhenghao](https://zhenghao.io/posts/memo-or-not)
 - [Your SSR is slow & your devtools are lying to you - DEV Community](https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056)
 - [Let's learn SvelteKit by building a static Markdown blog from scratch - Josh Collinsworth blog](https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog)
 - [Writing Better CSS | Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/blog/writing-better-css/)
-- [Hooks: React’s do-notation || Devansh Jethmalani / Writings](https://devanshj.me/writings/hooks-reacts-do-notation)
 
 
 <br/>
