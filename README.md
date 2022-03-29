@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Axios İpuçları #4: localForage ile HTTP Yanıtlarını IndexedDB’de Önbelleklemek](https://tugsanunlu.medium.com/axios-i%CC%87pu%C3%A7lar%C4%B1-4-localforage-ile-http-yan%C4%B1tlar%C4%B1n%C4%B1-indexeddbde-%C3%B6nbelleklemek-c246ebf6d8f8)
 - [When does React render your component? - zhenghao](https://zhenghao.io/posts/react-rerender)
 - [Preemptive memoization in React is probably not Evil (yet) - zhenghao](https://zhenghao.io/posts/memo-or-not)
 - [Your SSR is slow & your devtools are lying to you - DEV Community](https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056)
 - [Let's learn SvelteKit by building a static Markdown blog from scratch - Josh Collinsworth blog](https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog)
-- [Writing Better CSS | Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/blog/writing-better-css/)
 
 
 <br/>
