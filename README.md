@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [When You Should Prefer Map Over Object In JavaScript](https://www.zhenghao.io/posts/object-vs-map)
 - [Introduction](https://patterns.dev/posts/rendering-patterns/)
 - [Codebase Conversion: Migrating a MEAN AngularJS app to React, Next.js, and TypeScript · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/12/codebase-conversion-mean-react-next-ts/)
 - [Introduction · Crafting Interpreters](http://craftinginterpreters.com/introduction.html)
 - [React as a UI Runtime — Overreacted](https://overreacted.io/react-as-a-ui-runtime/#purity)
-- [Axios İpuçları #4: localForage ile HTTP Yanıtlarını IndexedDB’de Önbelleklemek](https://tugsanunlu.medium.com/axios-i%CC%87pu%C3%A7lar%C4%B1-4-localforage-ile-http-yan%C4%B1tlar%C4%B1n%C4%B1-indexeddbde-%C3%B6nbelleklemek-c246ebf6d8f8)
 
 
 <br/>
