@@ -29,11 +29,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)
 - [When You Should Prefer Map Over Object In JavaScript](https://www.zhenghao.io/posts/object-vs-map)
 - [Introduction](https://patterns.dev/posts/rendering-patterns/)
 - [Codebase Conversion: Migrating a MEAN AngularJS app to React, Next.js, and TypeScript · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/12/codebase-conversion-mean-react-next-ts/)
 - [Introduction · Crafting Interpreters](http://craftinginterpreters.com/introduction.html)
-- [React as a UI Runtime — Overreacted](https://overreacted.io/react-as-a-ui-runtime/#purity)
 
 
 <br/>
