@@ -23,7 +23,6 @@ fetch("https://api.raindrop.io/rest/v1/raindrops/0?perpage=5", {
     fs.writeFileSync(
       "./README.md",
       `
-<a href="https://codesandbox.io/s/pf4c0">![About Me](https://github.com/bufgix/bufgix/blob/master/ttt(1).gif)</a>
 
 
 ### 🛠 &nbsp;Tech Stack
