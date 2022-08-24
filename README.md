@@ -28,11 +28,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Typescipt is terrible for library developers: We spend a disproportionate amount of time on types](https://erock.prose.sh/typescript-terrible-for-library-developers)
 - [Design System Checklist](https://www.designsystemchecklist.com/)
 - [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/)
 - [When You Should Prefer Map Over Object In JavaScript](https://www.zhenghao.io/posts/object-vs-map)
 - [Introduction](https://patterns.dev/posts/rendering-patterns/)
-- [Codebase Conversion: Migrating a MEAN AngularJS app to React, Next.js, and TypeScript · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/12/codebase-conversion-mean-react-next-ts/)
 
 
 <br/>
