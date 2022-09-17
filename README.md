@@ -28,11 +28,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Get started with WebRTC](https://web.dev/webrtc-basics/)
 - [React Query meets React Router | TkDodo's blog](https://tkdodo.eu/blog/react-query-meets-react-router)
 - [Git's database internals I: packed object store | The GitHub Blog](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
 - [Best Practices for TypeScript Monorepo](https://blog.flycode.com/best-practices-for-typescript-monorepo)
 - [Typescipt is terrible for library developers: We spend a disproportionate amount of time on types](https://erock.prose.sh/typescript-terrible-for-library-developers)
-- [Design System Checklist](https://www.designsystemchecklist.com/)
 
 
 <br/>
