@@ -37,6 +37,10 @@
 
 <br/>
 
+[![wakatime](https://wakatime.com/badge/user/b7d63cf4-666e-402a-ad32-f6dc2e0936c8.svg)](https://wakatime.com/@b7d63cf4-666e-402a-ad32-f6dc2e0936c8)
+
+<br />
+
 
 
 ### 🤝🏻 &nbsp;Connect with Me
