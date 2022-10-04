@@ -46,13 +46,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.bufgix.now.sh"><img src="https://img.shields.io/badge/-bufgix.now.sh-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://twitter.com/bufgix_"><img src="https://img.shields.io/badge/-bufgix_-1da1f2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/omer-faruk-bufgix/"><img src="https://img.shields.io/badge/-Ömer%20Faruk%20Oruc-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ooruc471@yandex.com"><img src="https://img.shields.io/badge/-ooruc471@yandex.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/bufgix"><img src="https://img.shields.io/badge/-@bufgix-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://codesandbox.io/u/bufgix"><img src="https://img.shields.io/badge/-@bufgix-151515?style=flat&logo=CodeSandBox&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/bufgix"><img src="https://img.shields.io/badge/-@bufgix-2ec866?style=flat&logo=HackerRank&logoColor=white"/></a>
 
 </p>
     
