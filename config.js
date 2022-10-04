@@ -36,41 +36,7 @@ exports.SKILLS = {
 };
 
 exports.SOCIAL = [
-  {
-    link: "https://www.bufgix.now.sh",
-    image:
-      "https://img.shields.io/badge/-bufgix.now.sh-3423A6?style=flat&logo=Google-Chrome&logoColor=white",
-  },
-  {
-    link: "https://twitter.com/bufgix_",
-    image:
-      "https://img.shields.io/badge/-bufgix_-1da1f2?style=flat&logo=Twitter&logoColor=white",
-  },
-  {
-    link: "https://www.linkedin.com/in/omer-faruk-bufgix/",
-    image:
-      "https://img.shields.io/badge/-Ömer%20Faruk%20Oruc-0077B5?style=flat&logo=Linkedin&logoColor=white",
-  },
-  {
-    link: "mailto:ooruc471@yandex.com",
-    image:
-      "https://img.shields.io/badge/-ooruc471@yandex.com-D14836?style=flat&logo=Gmail&logoColor=white",
-  },
-  {
-    link: "https://instagram.com/bufgix",
-    image:
-      "https://img.shields.io/badge/-@bufgix-E4405F?style=flat&logo=Instagram&logoColor=white",
-  },
-  {
-    link: "https://codesandbox.io/u/bufgix",
-    image:
-      "https://img.shields.io/badge/-@bufgix-151515?style=flat&logo=CodeSandBox&logoColor=white",
-  },
-  {
-    link: "https://www.hackerrank.com/bufgix",
-    image:
-      "https://img.shields.io/badge/-@bufgix-2ec866?style=flat&logo=HackerRank&logoColor=white",
-  },
+
 ];
 
 exports.GITHUB_STATICS_URL =
