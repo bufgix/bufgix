@@ -28,11 +28,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Practical React Query | TkDodo's blog](https://tkdodo.eu/blog/practical-react-query)
 - [There's No Magic in React | JavaScript in Plain English](https://javascript.plainenglish.io/theres-no-magic-in-react-52d8d91a92a3)
 - [Records & Tuples for React](https://sebastienlorber.com/records-and-tuples-for-react)
 - [React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
 - [Everything You Thought You Knew About React Functional Components Is Wrong | by Amy Blankenship | CodeX | Sep, 2022 | Medium](https://medium.com/codex/everything-you-thought-you-knew-about-react-functional-components-is-wrong-baf2dfc4f6f)
-- [Get started with WebRTC](https://web.dev/webrtc-basics/)
 
 
 <br/>
