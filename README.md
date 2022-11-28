@@ -28,11 +28,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Coffeeshops at İzmir](https://iremlcaya.notion.site/iremlcaya/Coffeeshops-at-zmir-790c24eef1104d44a5015cd504792e08)
 - [Memoize!!! 💾 - a react (native) performance guide](https://gist.github.com/mrousavy/0de7486814c655de8a110df5cef74ddc)
 - [Practical React Query | TkDodo's blog](https://tkdodo.eu/blog/practical-react-query)
 - [There's No Magic in React | JavaScript in Plain English](https://javascript.plainenglish.io/theres-no-magic-in-react-52d8d91a92a3)
 - [Records & Tuples for React](https://sebastienlorber.com/records-and-tuples-for-react)
-- [React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
 
 
 <br/>
