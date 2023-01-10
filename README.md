@@ -28,11 +28,11 @@
 
 
 ### 🔖 &nbsp;My Last Bookmarks
+- [Data binding in React: how to work with forms in React](https://www.joshwcomeau.com/react/data-binding/)
 - [Chrome Extensions Tutorial: OAuth2 - Authenticate users with Google - Chrome Developers](https://developer.chrome.com/docs/extensions/mv3/tut_oauth/)
 - [turbo/examples/design-system at main · vercel/turbo](https://github.com/vercel/turbo/tree/main/examples/design-system)
 - [How we migrated to TanStack Query and RTK | Storyly | Storyly — More Than A Tech Circle](https://tech.storyly.io/how-we-migrated-from-redux-to-tanstack-query-and-redux-toolkit-ac9be2f445be)
 - [FFmpeg - Ultimate Guide | IMG.LY Blog](https://img.ly/blog/ultimate-guide-to-ffmpeg/)
-- [Coffeeshops at İzmir](https://iremlcaya.notion.site/iremlcaya/Coffeeshops-at-zmir-790c24eef1104d44a5015cd504792e08)
 
 
 <br/>
